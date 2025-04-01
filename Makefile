@@ -18,7 +18,7 @@ REFERENCE_EXEC = trie_ref
 default: 
 	echo "oops read the makefile!"
 
-# stitch - generates the executable and the bin dir. PLEASE PLEASE PLEASE DO NOT DELETE BIN
+# generates the executable and the bin dir. PLEASE PLEASE PLEASE DO NOT DELETE BIN
 snow: $(BIN_DIR) $(READABLE_OBJ)
 	$(CC) $(OBJ) $(READABLE_OBJ) -o $(EXEC)
 
