@@ -31,10 +31,9 @@ To run an individual testcase use
 4. Debug the test cases using gdb; you must use gdb to pass this mastery assessment.
 5. To the best of your ability, ensure your output matches the reference exactly.
 6. Write the outputs of the `history` command to a file in this repo called `shell_logs.txt`
-7. Ensure git tracking is enabled on  ./.gdbhistory
-8. Commit and push your changes. Do not forget to add `shell_logs.txt` and `gdb_logs.txt` to git.
-9. Delete your local copy of this repository (you will need to use the r and f flags). If this results in any errors, please notify your proctor before leaving the room.
-10. Please do not leave before your proctors tell you to do so.
+7. Commit and push your changes. Do not forget to add `shell_logs.txt` to git.
+8. Delete your local copy of this repository (you will need to use the r and f flags). If this results in any errors, please notify your proctor before leaving the room.
+9. Please do not leave before your proctors tell you to do so. 
 
 
 A trie is a fat tree that represents a dictionary of all words, each node in the trie represents a letter.
