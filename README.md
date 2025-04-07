@@ -22,7 +22,7 @@ prints all words that have the given prefix. Unfortunately this implementation o
 a trie is, refer to the bottom of the readme.
 
 To run an individual testcase use
-`bin/second_trie -w <file>`. Use `trie_ref -w <file>` for the reference output.
+`bin/second_trie -x <file>`. Use `trie_ref -x <file>` for the reference output.
 
 # Instructions:
 1. ssh into your favorite UTCS lab machine
