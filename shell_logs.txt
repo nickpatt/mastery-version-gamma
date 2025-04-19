@@ -1,0 +1,500 @@
+   27  make
+   28  make clean
+   29  make
+   30  make comp
+   31  make
+   32  make clean
+   33  make 
+   34  make comp
+   35  make
+   36  make clean
+   37  make
+   38  make check
+   39  make comp
+   40  make clean
+   41  make 
+   42  make comp
+   43  git pull
+   44  make clear
+   45  make
+   46  make
+   47  make
+   48  make clean
+   49  make week3
+   50  make clean
+   51  make week3
+   52  bin/se -w 3
+   53  bin/test-se -w 2 -v 2 
+   54  make week2
+   55  bin/test-se -w 2 -v 2 
+   56  make week2
+   57  bin/test-se -w 2 -v 2 
+   58  bin/test-se -w 2
+   59  make clean
+   60  bin/test-se -w 2
+   61  make clean
+   62  make week2
+   63  bin/test-se -w 2
+   64  make clean
+   65  make week 2
+   66  make week2
+   67  bin/test-se -w 2
+   68  make clean
+   69  make week2
+   70  bin/test-se -w 2
+   71  make 
+   72  make
+   73  make
+   74  test -se bin/se
+   75  test -se
+   76  bin/test-se -v 2 > fetch_debug.log
+   77  bin/test-se -v 2 > fetch_debug.log
+   78  make
+   79  make all
+   80  make
+   81  make clean
+   82  make 
+   83  make clean
+   84  make
+   85  bin/test-se -v 2 > fetch_debug.log
+   86  make clean
+   87  make
+   88  bin/test-se -v 2 > fetch_debug.log
+   89  make
+   90  make clean
+   91  make
+   92  bin/test-se -v 2 > fetch_debug.log
+   93  bin/test-se -2 2 > fetch_debug.log
+   94  bin/test-se -w 3 > fetch_debug.log
+   95  bin/test-se -w 3
+   96  bin/test-se -w 2
+   97  bin/test-se -w 2 -v 2
+   98  git pull
+   99  git stash
+  100  git pull
+  101  make clean
+  102  make
+  103  git pull
+  104  bin/test-se -w 2 -v 2
+  105  git remote -v
+  106  git pull
+  107  git log
+  108  git pull
+  109  git commit -a -m "hi"
+  110  make
+  111  make week2
+  112  bin/test-se -w 2 -v 2
+  113  make week3
+  114  echo "hello world"
+  115  make 
+  116  make week2
+  117  bin/se 
+  118  bin/test-se -w 2 
+  119  make
+  120  make week2
+  121  bin/test-se -w 2 
+  122  make week2
+  123  bin/test-se -w 2 
+  124  make 
+  125  make week2
+  126  bin/test-se -w 2 
+  127  make week2
+  128  bin/test-se -w 2 
+  129  make
+  130  make week2
+  131  bin/test-se -w 2 
+  132  make week3
+  133  bin/test-se -w 3 
+  134  make
+  135  make
+  136  make
+  137  make
+  138  make
+  139  make week3
+  140  make
+  141  make week3
+  142  bin/test-se -w 3 
+  143  bin/test-se -w 3 > fetch_debug.log
+  144  make
+  145  make week3
+  146  bin/test-se -w 3 > fetch_debug.log
+  147  bin/test-se -w 3 
+  148  make week3
+  149  bin/test-se -w 3 > fetch_debug.log
+  150  make week3
+  151  make week3
+  152  bin/test-se -w 3 > fetch_debug.log
+  153  bin/test-se -w 3
+  154  make week3
+  155  bin/test-se -w 3
+  156  bin/test-se -w 3 > fetch_debug.log
+  157  make week3
+  158  bin/test-se -w 3 > fetch_debug.log
+  159  bin/test-se -w 3
+  160  bin/test-se -w 3 > fetch_debug.log
+  161  make week3
+  162  bin/test-se -w 3 > fetch_debug.log
+  163  make week2
+  164  bin/test-se -w 2
+  165  make week3
+  166  bin/test-se -w 3
+  167  bin/test-se -w 3 > fetch_debug.log
+  168  make
+  169  make week3
+  170  bin/test-se -w 3 > fetch_debug.log
+  171  bin/test-se -w 3 
+  172  make
+  173  make week3
+  174  bin/test-se -w 3 
+  175  bin/test-se -w 3 > fetch_debug.log
+  176  bin/test-se -w 3 > fetch_debug.log
+  177  bin/test-se -w 2 > fetch_debug.log
+  178  bin/test-se -w 3 > fetch_debug.log
+  179  make week3
+  180  make week3
+  181  bin/test-se -w 3 
+  182  bin/test-se -w 3 > fetch_debug.log
+  183   make week3
+  184  bin/test-se -w 3 
+  185  bin/test-se -w 3 > fetch_debug.log
+  186  make week3
+  187  bin/test-se -w 3 > fetch_debug.log
+  188  bin/test-se -w 3
+  189  make week3
+  190  bin/test-se -w 3
+  191  MAKE WEEK3
+  192  make week3
+  193  make week3
+  194  make week3
+  195  make week3
+  196  make week3
+  197  bin/test-se -w 3
+  198  make week3
+  199  bin/test-se -w 3
+  200  make week3
+  201  bin/test-se -w 3
+  202  make week3
+  203  bin/test-se -w 3
+  204  make week3
+  205  make week3
+  206  bin/test-se -w 3
+  207  bin/test-se -w 3 > fetch_debug.log
+  208  make week2
+  209  bin/test-se -w 3
+  210  bin/test-se -w 2
+  211  bin/test-se -w 2 > fetch_debug2.log
+  212  make week2
+  213  bin/test-se -w 2
+  214  bin/test-se -w 3
+  215  make week2
+  216  bin/test-se -w 2
+  217  make week2
+  218  bin/test-se -w 2
+  219  make week3
+  220  bin/test-se -w 2
+  221  bin/test-se -w 3
+  222  make week3
+  223  bin/test-se -w 3
+  224  make week3
+  225  bin/test-se -w 3
+  226  make week3
+  227  bin/test-se -w 3
+  228  make week3
+  229  bin/test-se -w 3
+  230  make week3
+  231  bin/test-se -w 3
+  232  make week3
+  233  bin/test-se -w 3
+  234  make week3
+  235  bin/test-se -w 3
+  236  bin/test-se -w 3 > fetch_debug.log
+  237  make week3
+  238  bin/test-se -w 3 > fetch_debug.log
+  239  bin/test-se -w 3
+  240  make week3
+  241  bin/test-se -w 3
+  242  bin/test-se -w 3 > fetch_debug.log
+  243  make week3
+  244  bin/test-se -w 3
+  245  bin/test-se -w 3 > fetch_debug.log
+  246  make week3
+  247  bin/test-se -w 3 > fetch_debug.log
+  248  bin/test-se -w 3
+  249  make week3
+  250  bin/test-se -w 3
+  251  bin/test-se -w 3 > fetch_debug.log
+  252  make week2
+  253  bin/test-se -w 3 > fetch_debug.log
+  254  make week3
+  255  bin/test-se -w 3
+  256  bin/test-se -w 3 > fetch_debug.log
+  257  make week3
+  258  bin/test-se -w 3 > fetch_debug.log
+  259  make week3
+  260  bin/test-se -w 3 > fetch_debug.log
+  261  bin/test-se
+  262  bin/test-se week3
+  263  bin/test-se -w 3
+  264  make week3
+  265  bin/test-se -w 3
+  266  bin/test-se -w 3 > fetch_debug.log
+  267  make week3
+  268  bin/test-se -w 3
+  269  git commit -a -m "hi"
+  270  git push
+  271  make all
+  272  make
+  273  make week3
+  274  bin/test-se -w 3
+  275  make week3
+  276  bin/test-se -w 3
+  277  make week3
+  278  bin/test-se -w 3
+  279  bin/test-se -w 3 > fetch_debug.log
+  280  make week3
+  281  bin/test-se -w 3 > fetch_debug.log
+  282  bin/test-se -w 3
+  283  make week3
+  284  make week3
+  285  bin/test-se -w 3
+  286  make week3
+  287  bin/test-se -w 3
+  288  make
+  289  make week3
+  290  bin/test-se -w 3
+  291  make week3
+  292  bin/test-se -w 3
+  293  make week3
+  294  bin/test-se -w 3
+  295  make week3
+  296  bin/test-se -w 3
+  297  make week3
+  298  bin/test-se -w 3
+  299  bin/test-se -w 3 -v 3
+  300  make week2
+  301  make week3
+  302  bin/test-se -w 3 -v 3
+  303  git pull
+  304  git stash
+  305  git pull
+  306  make week3
+  307  bin/test-se -w 3 -v 3
+  308  bin/test-se -w 3 -v 3 > week3_debug.logs
+  309  make week3
+  310  bin/test-se -w 3 -v 3
+  311  make week3
+  312  bin/test-se -w 3 -v 3
+  313  bin/test-se -w 3 -v 3 > week3_debug.logs
+  314  make week3
+  315  bin/test-se -w 3 -v 3 > week3_debug.logs
+  316  make week3
+  317  bin/test-se -w 3 -v 3
+  318  make week3
+  319  bin/test-se -w 3 -v 3
+  320  make week3
+  321  bin/test-se -w 3 -v 3
+  322  make week3
+  323  bin/test-se -w 3 -v 3
+  324  make week3
+  325  bin/test-se -w 3 -v 3
+  326  make week3
+  327  bin/test-se -w 3 -v 3
+  328  bin/test-se -w 3 -v 0
+  329  make weekmake
+  330  make week3
+  331  bin/test-se -w 3 -v 0
+  332  bin/test-se -w 3 -v 3
+  333  make week3
+  334  bin/test-se -w 3 -v 3
+  335  make week3
+  336  bin/test-se -w 3 -v 3
+  337  make week3
+  338  make week3
+  339  bin/test-se -w 3 -v 3
+  340  make week3
+  341  bin/test-se -w 3 -v 3
+  342  make week3
+  343  make week3
+  344  bin/test-se -w 3 -v 3
+  345  make week3
+  346  bin/test-se -w 3 -v 3
+  347  make week3
+  348  bin/test-se -w 3 -v 3
+  349  make week3
+  350  bin/test-se -w 3 -v 3
+  351  make week3
+  352  bin/test-se -w 3 -v 3
+  353  make week3
+  354  bin/test-se -w 3 -v 3
+  355  make week3
+  356  bin/test-se -w 3 -v 3
+  357  make week3
+  358  bin/test-se -w 3 -v 3
+  359  make week3
+  360  bin/test-se -w 3 -v 3
+  361  make week3
+  362  bin/test-se -w 3 -v 3
+  363  make week3
+  364  bin/test-se -w 3 -v 3
+  365  bin/test-se -w 3 -v 3 > log1.txt
+  366  make week3
+  367  bin/test-se -w 3 -v 3 > log2.txt
+  368  make week3
+  369  bin/test-se -w 3 -v 3 > log2.txt
+  370  make week3
+  371  bin/test-se -w 3 -v 3 > log2.txt
+  372  make week3
+  373  bin/test-se -w 3 -v 3 > log2.txt
+  374  make week3
+  375  make week3
+  376  bin/test-se -w 3 -v 3 > log2.txt
+  377  make week3
+  378  bin/test-se -w 3 -v 3 > log2.txt
+  379  make week3
+  380  bin/test-se -w 3 -v 3 > log2.txt
+  381  git commit -a -m "fixed a few cases"
+  382  git push
+  383  git pull
+  384  git pull
+  385  bin/test-se -w 3 -v 3
+  386  bin/test-se -w 3 -v 3
+  387  make week3
+  388  bin/test-se -w 3 -v 3
+  389  git pull
+  390  make week3
+  391  bin/test-se -w 3 -v 3
+  392  bin/test-se -w 3 -v 3 > log2.txt
+  393  git pull
+  394  make week3
+  395  git pull
+  396  bin/test-se -w 3 -v 3
+  397  make week3
+  398  bin/test-se -w 3 -v 3
+  399  make week3
+  400  bin/test-se -w 3 -v 3
+  401  make week3
+  402  make week3
+  403  make week3
+  404  bin/test-se -w 3 -v 3
+  405  make week3
+  406  bin/test-se -w 3 -v 3
+  407  make week3
+  408  bin/test-se -w 3 -v 3
+  409  make week3
+  410  bin/test-se -w 3 -v 3
+  411  make week3
+  412  bin/test-se -w 3 -v 3
+  413  git pull
+  414  make week3
+  415  bin/test-se -w 3 -v 3
+  416  make week3
+  417  bin/test-se -w 3 -v 3
+  418  git commit -a -m "final"
+  419  git push
+  420  make week3
+  421  bin/test-se -w 3 -v 3 > log2.txt
+  422  touch ~/.gdbinit
+  423  echo set history save on > ~/.gdbinit
+  424  cat .gdbinit
+  425  git clone git@github.com:nickpatt/mastery-version-c.git
+  426  git clone git@github.com:nickpatt/mastery-version-g.git
+  427  rm -rf git@github.com:nickpatt/mastery-version-g.git
+  428  rm -rf mastery-version-g
+  429  git clone git@github.com:nickpatt/mastery-version-g.git
+  430  rm -rf mastery-version-c
+  431  git clone git@github.com:nickpatt/mastery-version-c.git
+  432  make clean
+  433  make
+  434  make tests
+  435  gdb mini_ci
+  436  make clean
+  437  make debug
+  438  gdb mini_ci
+  439  make clean
+  440  make check
+  441  gdb mini_ci
+  442  make clean
+  443  make debug
+  444  gdb mini_ci
+  445  make clean
+  446  make debug
+  447  make debug
+  448  gdb mini_ci
+  449  make clean
+  450  make check
+  451  make clean
+  452  make debug
+  453  gdb mini_ci
+  454  make clean
+  455  make 
+  456  make check
+  457  make clean
+  458  make ref
+  459  make debug
+  460  make check
+  461  make clean
+  462  make check
+  463  make lean
+  464  make clean
+  465  make check
+  466  make 
+  467  make clean
+  468  make
+  469  make debug
+  470  gdb mini_ci
+  471  make clean
+  472  make check
+  473  make clean
+  474  make check
+  475  make clean
+  476  make 
+  477  make check
+  478  make clean
+  479  make check
+  480  make
+  481  make clean
+  482  make clean
+  483  make 
+  484  make check
+  485  make clean
+  486  make check
+  487  make clean
+  488  make check
+  489  cd .
+  490  cd .
+  491  history > shell_logs.txt
+  492  gdb mini_ci
+  493  git add .
+  494  git commit -a -m "hi"
+  495  git push
+  496  history > shell_logs.txt
+  497  git clone git@github.com:nickpatt/mastery-version-gamma.git
+  498  git clone git@github.com:nickpatt/mastery-version-gamma.git
+  499  git clone https://github.com/nickpatt/mastery-version-gamma.git
+  500  git clone git@github.com:nickpatt/mastery-version-gamma.git
+  501  make
+  502  make snow
+  503  make dopey
+  504  make clean
+  505  make happy
+  506  make doc
+  507  gdb bin/second_trie
+  508  make doc
+  509  make happy
+  510  make snow
+  511  make dopey
+  512  make grumpy
+  513  make happy
+  514  make doc
+  515  gdb bin/second_trie
+  516  make happy
+  517  make doc
+  518  make grumpy
+  519  gdb bin/second_trie
+  520  make happy
+  521  make grumpy
+  522  make happy
+  523  make grumpy
+  524  make happy
+  525  make grumpy
+  526  history > shell_logs.txt
